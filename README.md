@@ -1,4 +1,4 @@
 acodon.js
 =========
 
-acordion jQuery plugin
+accordion jQuery plugin
